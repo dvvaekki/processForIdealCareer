@@ -1,7 +1,7 @@
 # successForEEProcess
 
 # Succeeding as an Electrical Engineering Student
-######By Jay Tampinco
+###### By Jay Tampinco
 
 ## Table of Contents:
 
