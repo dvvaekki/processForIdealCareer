@@ -27,7 +27,12 @@ Participating in extracurricular activities on campus opens up broad oppurtuniti
 experience, becoming involved in your community, and networking with mentors.
 
 ### On-Campus Events
-afd
+---
+Many schools provide on-campus events like mentorship nights, skill workshops, and career presentations. 
+You can find more information on your schools event schedule through their event page online, the school paper,
+or posters around campus.
 
+Attending these events can not only boost necessities like your resume, but also give you the skills
+you need to prepare for your future career. 
 
 
