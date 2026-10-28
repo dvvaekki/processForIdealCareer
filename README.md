@@ -1,5 +1,5 @@
 # Preparing for Your Ideal Career
-___
+
 ## Table of Contents:
 * Extracurriculars
   * On-Campus Events
