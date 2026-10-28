@@ -1,5 +1,3 @@
-# successForEEProcess
-
 # Preparing for Your Ideal Career
 ###### By Jay Tampinco
 
@@ -13,9 +11,11 @@
   * Campus Programs
   * Research
 * Internships
+  * Relation
 * Strategies for Success
   * Career Services
   * Networking
   * Taking Care of Yourself
 * Refreneces
+
 
