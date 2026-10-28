@@ -16,8 +16,8 @@
 Applying to your ideal job after graduating can be stressful as a lot of students feel they are underqualified.
 Often times it takes more than just the base major course track to catch the attention of hiring managers.
 This work presents some ideas to boost your exprience and resume to better appeal to your career of choice.
- ___
 
+___
 ## Extracurriculars
 Participating in extracurricular activities on campus opens up broad oppurtunities like getting hands-on 
 experience, becoming involved in your community, and networking with mentors.
@@ -39,6 +39,7 @@ experience in your field and becomes a stand out quality to recruiters.
 
 Check the club registry and scout out which catagories interest you. Be sure not to overload your schedule.
 
+___
 ## Electives
 Elective classes are required for your major. However, relating those electives to your interests and goals rather than
 choosing blindly can prepare you for what kinds of projects you might take on in the future.
@@ -51,6 +52,7 @@ These programs generally provide on-site expereiences that you may use later on.
 
 Attend meetings and talk with professors about what kinds of programs or research they sponser. 
 
+___
 ## Internships
 Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've
 already had background in your area. These also give you the chance to stay at a company you intern at if you mesh well with their workspace. 
@@ -60,6 +62,7 @@ who intern are far more likely to be offered full-time positions when applying t
 Work on your LinkedIn and resume to begin applying to internships on various job websites. It will take multiple tries, don't be discouraged 
 by your first rejection.
 
+___
 ## References
 
 [^1]: Husson University, “Benefits of Internships for College Students,” 2024 Husson Online Blog, June 11, 2024.  https://www.husson.edu/online/blog/2024/06/benefits-of-internships
