@@ -81,8 +81,9 @@ to help build resumes, gain interview skills, and get guidance on what kinds of 
 best fit you. They often hold events and coaching resources for students to frequently attend.
 
 Work with career services to build your resume. You can have all the experience, but the most important
-part is being able to relay that to an employer.
+part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
 
+###### Figure 1: Visualization of Two Different Resumes
 <img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" />
 
 #### Networking Websites
