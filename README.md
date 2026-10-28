@@ -47,9 +47,7 @@ choosing blindly can prepare you for what kinds of projects you might take on in
 
 #### University-Sanctioned Programs
 ---
-Programs like study abroad, research labs, and company-sponsored electives can count towards your elective credits. For example,
-if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. 
-These programs generally provide on-site expereiences that you may use later on.
+Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits. For example, if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. These programs generally provide on-site expereiences that you may use later on.
 
 Attend meetings and talk with professors about what kinds of programs or research they sponser. 
 
@@ -83,9 +81,9 @@ best fit you. They often hold events and coaching resources for students to freq
 
 #### Networking Websites
 ---
-Websites like LinkedIn, Husky Handshake, and alumni associations are great ways to connect with others in your fields,
-experienced graduates similar to you, and companies you'd like to apply for. Careers and internships are posted on LinkedIn and 
-Husky Handshake, which make them great ways to find opportunities.
+Websites like LinkedIn, [Husky Handshake](https://careers.uw.edu/resources/handshake/), and alumni associations are
+great ways to connect with others in your fields, experienced graduates similar to you, and companies you'd like 
+to apply for. Careers and internships are posted on LinkedIn and Husky Handshake, which make them great ways to find opportunities.
 
 Create and spend some time on these profiles. Keep track of companies, disciplines, and other peers by connecting with them
 through these platforms.
