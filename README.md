@@ -5,11 +5,11 @@
   * On-Campus Events
   * Clubs
 * Electives
-  * School-Sanctioned Programs
+  * University-Sanctioned Programs
 * Internships
 * Strategies for Success
   * Career Services
-  * Networking
+  * Networking Websites
   * Attaining Leadership Roles
 * References
 
@@ -24,16 +24,16 @@ experience, becoming involved in your community, and networking with mentors.
 
 #### On-Campus Events
 ---
-Many schools provide on-campus events like mentorship nights, skill workshops, employer tours, and career presentations. 
+All UW campuses provide on-campus events like mentorship nights, skill workshops, employer tours, and career presentations. 
 Attending these events can boost necessities like your resume, give you an idea of what a job in that area might look like, 
 and gives you the skills you need to prepare for your future career. 
 
-You can find more information on your schools event schedule through their event page online, the school paper,
+You can find more information on the campus event schedule through the event page online, the school paper,
 or posters around campus.
 
 #### Clubs
 ---
-There are countless clubs you can find in your school that are always accepting new members.
+There are countless clubs you can find on the club registry page that are always accepting new members.
 Joining a club or two relating to your area of interest (ex. engineering --> robotics) gives you
 experience in your field and becomes a stand out quality to recruiters.
 
@@ -44,7 +44,7 @@ ___
 Elective classes are required for your major. However, relating those electives to your interests and goals rather than
 choosing blindly can prepare you for what kinds of projects you might take on in the future.
 
-#### School-Sanctioned Programs
+#### University-Sanctioned Programs
 ---
 Programs like study abroad, research labs, and company-sponsored electives can count towards your elective credits. For example,
 if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. 
@@ -62,6 +62,32 @@ who intern are far more likely to be offered full-time positions when applying t
 Work on your LinkedIn and resume to begin applying to internships on various job websites. It will take multiple tries, don't be discouraged 
 by your first rejection.
 
+___
+## Strategies for Success
+Utilize what's around you and what you're already involved in to enhance your prospects. Prioritize what strategies work best for you
+and what would be most important to your future career. 
+
+#### Career Services
+---
+Most schools offer resources like a career services office to help build resumes and get guidance on what kinds of programs would
+best fit you. 
+
+#### Networking Websites
+---
+Websites like LinkedIn, Husky Handshake, and alumni associations are great ways to connect with others in your fields,
+experienced graduates similar to you, and companies you'd like to apply for. Careers and internships are posted on LinkedIn and 
+Husky Handshake, which make them great ways to find opportunities.
+
+Create and spend some time on these profiles. Keep track of companies, disciplines, and other peers by connecting with them
+through these platforms.
+
+#### Attaining Leadership Roles
+---
+Participating in clubs and activities are already good ways to boost your resumes. However, you can upgrade these roles by
+becoming a leader in your area. Leadership skills and taking the initiative are always great qualities that hiring manangers are on the lookout for.
+
+Try to audition or run for positions in what you are involved in. Even if you don't succeed, you still put yourself out there
+and can learn what to improve for next time.
 ___
 ## References
 
