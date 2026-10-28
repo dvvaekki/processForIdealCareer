@@ -1,7 +1,10 @@
 # successForEEProcess
 
-# Succeeding as an Electrical Engineering Student
+# Preparing for Your Ideal Career
 ###### By Jay Tampinco
 
 ## Table of Contents:
+* Extracurriculars
+....* On-Campus Events
+....*
 
