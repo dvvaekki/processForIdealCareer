@@ -4,13 +4,9 @@
 * Extracurriculars
   * On-Campus Events
   * Clubs
-  * Volunteerism
 * Electives
-  * Relation
-  * Campus Programs
-  * Research
+  * School-Sanctioned Programs
 * Internships
-  * Relation
 * Strategies for Success
   * Career Services
   * Networking
@@ -28,11 +24,32 @@ experience, becoming involved in your community, and networking with mentors.
 
 #### On-Campus Events
 ---
-Many schools provide on-campus events like mentorship nights, skill workshops, and career presentations. 
+Many schools provide on-campus events like mentorship nights, skill workshops, employer tours, and career presentations. 
+Attending these events can boost necessities like your resume, give you an idea of what a job in that area might look like, 
+and gives you the skills you need to prepare for your future career. 
+
 You can find more information on your schools event schedule through their event page online, the school paper,
 or posters around campus.
 
-Attending these events can not only boost necessities like your resume, but also give you the skills
-you need to prepare for your future career. 
+#### Clubs
+---
+There are countless clubs you can find in your school that are always accepting new members.
+Joining a club or two relating to your area of interest (ex. engineering --> robotics) gives you
+experience in your field and becomes a stand out quality to recruiters.
 
+Check the club registry and scout out which catagories interest you. Be sure not to overload your schedule.
+
+## Electives
+Elective classes are required for your major. However, relating those electives to your interests and goals rather than
+choosing blindly can prepare you for what kinds of projects you might take on in the future.
+
+#### School-Sanctioned Programs
+---
+Programs like study abroad, research labs, and company-sponsored electives can count towards your elective credits. For example,
+if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. 
+These programs generally provide on-site expereiences that you may use later on.
+
+Attend meetings and talk with professors about what kinds of programs or research they sponser.
+
+## Internships
 
