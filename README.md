@@ -23,13 +23,11 @@ This work presents some ideas to boost your exprience and resume to better appea
  ___
 
 ## Extracurriculars
-***
 Participating in extracurricular activities on campus opens up broad oppurtunities like getting hands-on 
 experience, becoming involved in your community, and networking with mentors.
 
 ### On-Campus Events
----
-
+afd
 
 
 
