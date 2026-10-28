@@ -29,7 +29,7 @@ All UW campuses provide on-campus events like mentorship nights, skill workshops
 Attending these events can boost necessities like your resume, give you an idea of what a job in that area might look like, 
 and gives you the skills you need to prepare for your future career. 
 
-You can find more information on the campus event schedule through the event page online, the school paper,
+You can find more information on the campus event schedule through the [event page](https://www.uwb.edu/calendar), the school paper,
 or posters around campus.
 
 #### Clubs
