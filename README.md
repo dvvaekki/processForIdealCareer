@@ -49,7 +49,18 @@ Programs like study abroad, research labs, and company-sponsored electives can c
 if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. 
 These programs generally provide on-site expereiences that you may use later on.
 
-Attend meetings and talk with professors about what kinds of programs or research they sponser.
+Attend meetings and talk with professors about what kinds of programs or research they sponser. 
 
 ## Internships
+Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've
+already had background in your area. These also give you the chance to stay at a company you intern at if you mesh well with their workspace. 
+Networking is one of the best benefits of interning, as you get to meet with many different people during your time at the company. Students
+who intern are far more likely to be offered full-time positions when applying to long-term careers [^1].
 
+Work on your LinkedIn and resume to begin applying to internships on various job websites. It will take multiple tries, don't be discouraged 
+by your first rejection.
+
+## References
+
+[^1] [1] Husson University, “Benefits of Internships for College Students,” 2024 Husson Online Blog, June 11, 2024.  https://www.husson.edu/online/blog/2024/06/benefits-of-internships
+‌
