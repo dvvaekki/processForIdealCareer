@@ -38,7 +38,7 @@ There are countless clubs you can find on the club registry page that are always
 Joining a club or two relating to your area of interest (ex. engineering --> robotics) gives you
 experience in your field and becomes a stand out quality to recruiters.
 
-Check the club registry and scout out which catagories interest you. Be sure not to overload your schedule.
+Check the [club registry](https://gather.uwb.edu/club_signup) and scout out which catagories interest you. Be sure not to overload your schedule.
 
 ___
 ## Electives
@@ -47,7 +47,7 @@ choosing blindly can prepare you for what kinds of projects you might take on in
 
 #### University-Sanctioned Programs
 ---
-Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits. For example, if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. These programs generally provide on-site expereiences that you may use later on.
+Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits. For example, if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. These programs generally provide on-site expereiences that you may use later on, alongside future mentors you can use as a reference.
 
 Attend meetings and talk with professors about what kinds of programs or research they sponser. 
 
@@ -64,7 +64,8 @@ by your first rejection.
 #### Tailoring Applications
 ---
 Editing your cover letter and resume to better fit the job expectations on the employers site gives you a better chance of being reviewed.
-Rather than mass sending your base documents, take some time to tailor them to the career you're applying for.
+Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing 
+relevant job experience, adjusting your resume summary, and using similar language to the posting.
 
 Read over the job description and stylize your documents to match the expectations of your potential employer.
 
@@ -78,6 +79,11 @@ and what would be most important to your future career.
 UW campuses offer resources like a [career services office](https://www.uwb.edu/career-services/) 
 to help build resumes, gain interview skills, and get guidance on what kinds of programs would
 best fit you. They often hold events and coaching resources for students to frequently attend.
+
+Work with career services to build your resume. You can have all the experience, but the most important
+part is being able to relay that to an employer.
+
+<img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" />
 
 #### Networking Websites
 ---
