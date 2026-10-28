@@ -7,6 +7,7 @@
 * Electives
   * University-Sanctioned Programs
 * Internships
+  * Tailoring Applications
 * Strategies for Success
   * Career Services
   * Networking Websites
@@ -62,6 +63,13 @@ who intern are far more likely to be offered full-time positions when applying t
 Work on your LinkedIn and resume to begin applying to internships on various job websites. It will take multiple tries, don't be discouraged 
 by your first rejection.
 
+#### Tailoring Applications
+---
+Editing your cover letter and resume to better fit the job expectations on the employers site gives you a better chance of being reviewed.
+Rather than mass sending your base documents, take some time to tailor them to the career you're applying for.
+
+Read over the job description and stylize your documents to match the expectations of your potential employer.
+
 ___
 ## Strategies for Success
 Utilize what's around you and what you're already involved in to enhance your prospects. Prioritize what strategies work best for you
@@ -69,8 +77,9 @@ and what would be most important to your future career.
 
 #### Career Services
 ---
-Most schools offer resources like a career services office to help build resumes and get guidance on what kinds of programs would
-best fit you. 
+UW campuses offer resources like a [career services office](https://www.uwb.edu/career-services/) 
+to help build resumes, gain interview skills, and get guidance on what kinds of programs would
+best fit you. They often hold events and coaching resources for students to frequently attend.
 
 #### Networking Websites
 ---
