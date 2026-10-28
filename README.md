@@ -62,5 +62,5 @@ by your first rejection.
 
 ## References
 
-[^1] [1] Husson University, “Benefits of Internships for College Students,” 2024 Husson Online Blog, June 11, 2024.  https://www.husson.edu/online/blog/2024/06/benefits-of-internships
+[^1]: Husson University, “Benefits of Internships for College Students,” 2024 Husson Online Blog, June 11, 2024.  https://www.husson.edu/online/blog/2024/06/benefits-of-internships
 ‌
