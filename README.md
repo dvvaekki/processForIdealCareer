@@ -1,8 +1,8 @@
 # Preparing for Your Ideal Career
 
 ## Table of Contents:
-* Extracurriculars
-  * On-Campus Events
+* [Extracurriculars](##extracurriculars)
+  * [On-Campus Events](####on-campus-events)
   * Clubs
 * Electives
   * University-Sanctioned Programs
