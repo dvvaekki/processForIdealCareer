@@ -1,18 +1,18 @@
 # Preparing for Your Ideal Career
 
 ## Table of Contents:
-* [Extracurriculars](##extracurriculars)
-  * [On-Campus Events](####on-campus-events)
-  * Clubs
-* Electives
-  * University-Sanctioned Programs
-* Internships
-  * Tailoring Applications
-* Strategies for Success
-  * Career Services
-  * Networking Websites
-  * Attaining Leadership Roles
-* References
+* [Extracurriculars](#extracurriculars)
+  * [On-Campus Events](#on-campus-events)
+  * [Clubs](#clubs)
+* [Electives](#electives)
+  * [University-Sanctioned Programs](#university-sanctioned-programs)
+* [Internships](#internships)
+  * [Tailoring Applications](#tailoring-applications)
+* [Strategies for Success](#strategies-for-success)
+  * [Career Services](#career-services)
+  * [Networking Websites](#networking-websites)
+  * [Attaining Leadership Roles](#attaining-leadership-roles)
+* [References](#references)
 
 Applying to your ideal job after graduating can be stressful as a lot of students feel they are underqualified.
 Often times it takes more than just the base major course track to catch the attention of hiring managers.
