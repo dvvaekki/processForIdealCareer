@@ -53,32 +53,27 @@ Attend meetings and talk with professors about what kinds of programs or researc
 
 ___
 ## Internships
-Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've
-already had background in your area. These also give you the chance to stay at a company you intern at if you mesh well with their workspace. 
-Networking is one of the best benefits of interning, as you get to meet with many different people during your time at the company. Students
-who intern are far more likely to be offered full-time positions when applying to long-term careers [^1].
+Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had background in your area. These also give you the chance to stay at a company you intern at if you mesh well with their workspace. 
+Networking is one of the best benefits of interning, as you get to meet with many different people during your time at the company. Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1].
 
-Work on your LinkedIn and resume to begin applying to internships on various job websites. It will take multiple tries, don't be discouraged 
-by your first rejection.
+Work on your LinkedIn and resume to begin applying to internships on various job websites. It will take multiple tries, don't be discouraged by your first rejection.
 
 #### Tailoring Applications
 ---
 Editing your cover letter and resume to better fit the job expectations on the employers site gives you a better chance of being reviewed.
-Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing 
-relevant job experience, adjusting your resume summary, and using similar language to the posting.
+Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing relevant job experience, adjusting your resume summary, and using similar language to the posting.
 
 Read over the job description and stylize your documents to match the expectations of your potential employer.
 
 ___
 ## Strategies for Success
-Utilize what's around you and what you're already involved in to enhance your prospects. Prioritize what strategies work best for you
-and what would be most important to your future career. 
+Utilize what's around you and what you're already involved in to enhance your prospects. Prioritize what strategies work best for you and what would be most important to your future career. 
 
 #### Career Services
 ---
 UW campuses offer resources like a [career services office](https://www.uwb.edu/career-services/) 
-to help build resumes, gain interview skills, and get guidance on what kinds of programs would
-best fit you. They often hold events and coaching resources for students to frequently attend.
+to help you build resumes, gain interview skills, and get personalized guidance on what kinds of programs would
+best fit you. They often hold events and coaching resources for students like yourself to frequently attend.
 
 Work with career services to build your resume. You can have all the experience, but the most important
 part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
@@ -105,5 +100,5 @@ and can learn what to improve for next time.
 ___
 ## References
 
-[^1]: Husson University, “Benefits of Internships for College Students,” 2024 Husson Online Blog, June 11, 2024.  https://www.husson.edu/online/blog/2024/06/benefits-of-internships
+[^1]: Husson University, “Benefits of Internships for College Students,” 2024 Husson Online Blog, June 11, 2024. [Accessed 27 October 2026] https://www.husson.edu/online/blog/2024/06/benefits-of-internships
 ‌
