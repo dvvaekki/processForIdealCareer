@@ -25,7 +25,7 @@ ___
 ## Participating in Extracurriculars
 Participating in extracurricular activities on campus opens up broad opportunities like getting hands-on 
 experience, becoming involved in your community, and networking with mentors. Employers find that extracurriculars build necessary skills and experience before you apply.
-
+---
 
 ### Attending On-Campus Events
 ___
@@ -35,6 +35,7 @@ and gives you the skills you need to prepare for your future career.
 
 You can find more information on the campus event schedule through the [event page](https://www.uwb.edu/calendar), the school paper,
 or posters around campus.
+---
 
 
 ### Finding Clubs
@@ -43,12 +44,14 @@ Joining a club or two relating to your area of interest (ex. engineering --> rob
 experience in your field and becomes a stand out quality to recruiters since you bring in prior knowledge of your area.
 
 Check the [club registry](https://gather.uwb.edu/club_signup) and scout out which categories interest you. Be sure not to overload your schedule.
+---
 
 
 ___
 ## Choosing Electives
 Elective classes are required for your major. However, relating those electives to your interests and goals rather than
 choosing blindly prepares you for what kinds of projects you might take on in the future.
+---
 
 
 ### Joining University-Sanctioned Programs
@@ -56,12 +59,14 @@ ___
 Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits.These programs provide on-site experiences that you use later on. University programs show that you're willing to engage and learn from the community around you.
 
 Attend meetings and talk with professors about what kinds of programs or research they sponsor. 
+---
 
 
 ___
 ## Getting Internships
 Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had a background in your area. 
 Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. Employers prefer applicants who have prior experience so the training/teaching process is more streamlined.
+---
 
 
 ### Tailoring Applications
@@ -70,6 +75,7 @@ Editing your cover letter and resume to better fit the job expectations on the e
 Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing relevant job experience, adjusting your resume summary, and using similar language to the posting.
 
 Read over the job description and stylize your documents to match the expectations of your potential employer.
+---
 
 
 ### Using Career Services
@@ -80,6 +86,7 @@ best fit you. They often hold events and coaching resources for students like yo
 
 Work with career services to build your resume. You can have all the experience, but the most important
 part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
+---
 
 
 ###### Figure 1: Visualization of Two Different Resumes
@@ -93,6 +100,7 @@ great ways to connect with others in your fields, experienced graduates similar 
 
 Create and spend some time on these profiles. Keep track of companies, disciplines, and other peers by connecting with them
 through these platforms.
+---
 
 ___
 ## References
