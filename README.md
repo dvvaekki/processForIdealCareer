@@ -74,7 +74,7 @@ Work with career services to build your resume. You can have all the experience,
 part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
 
 ###### Figure 1: Visualization of Two Different Resumes
-<img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" /><img width="1280" height="720" alt="electronics-1-lab-featured" src="https://github.com/user-attachments/assets/8bb894bc-d99b-4f46-930a-93ac911db4c0" />
+<img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" />
 
 ### Attaining Leadership Roles
 ---
