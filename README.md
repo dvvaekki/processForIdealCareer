@@ -20,10 +20,12 @@ Applying to your ideal job after graduating can be stressful as it's normal to f
 It takes more than just the base major course track to catch the attention of hiring managers.
 This document is a guide to boosting your experience and resume to better appeal to labs focusing on research and development.
 
+
 ___
 ## Participating in Extracurriculars
 Participating in extracurricular activities on campus opens up broad opportunities like getting hands-on 
 experience, becoming involved in your community, and networking with mentors. Employers find that extracurriculars build necessary skills and experience before you apply.
+
 
 ### Attending On-Campus Events
 ___
@@ -34,6 +36,7 @@ and gives you the skills you need to prepare for your future career.
 You can find more information on the campus event schedule through the [event page](https://www.uwb.edu/calendar), the school paper,
 or posters around campus.
 
+
 ### Finding Clubs
 ___
 Joining a club or two relating to your area of interest (ex. engineering --> robotics) gives you
@@ -41,10 +44,12 @@ experience in your field and becomes a stand out quality to recruiters since you
 
 Check the [club registry](https://gather.uwb.edu/club_signup) and scout out which categories interest you. Be sure not to overload your schedule.
 
+
 ___
 ## Choosing Electives
 Elective classes are required for your major. However, relating those electives to your interests and goals rather than
 choosing blindly prepares you for what kinds of projects you might take on in the future.
+
 
 ### Joining University-Sanctioned Programs
 ___
@@ -52,10 +57,12 @@ Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroa
 
 Attend meetings and talk with professors about what kinds of programs or research they sponsor. 
 
+
 ___
 ## Getting Internships
 Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had a background in your area. 
 Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. Employers prefer applicants who have prior experience so the training/teaching process is more streamlined.
+
 
 ### Tailoring Applications
 ___
@@ -63,6 +70,7 @@ Editing your cover letter and resume to better fit the job expectations on the e
 Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing relevant job experience, adjusting your resume summary, and using similar language to the posting.
 
 Read over the job description and stylize your documents to match the expectations of your potential employer.
+
 
 ### Using Career Services
 ___
@@ -73,8 +81,10 @@ best fit you. They often hold events and coaching resources for students like yo
 Work with career services to build your resume. You can have all the experience, but the most important
 part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
 
+
 ###### Figure 1: Visualization of Two Different Resumes
 <img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" /><img width="1280" height="720" alt="electronics-1-lab-featured" src="https://github.com/user-attachments/assets/8bb894bc-d99b-4f46-930a-93ac911db4c0" />
+
 
 ### Using Networking Websites
 ___
