@@ -26,7 +26,7 @@ Participating in extracurricular activities on campus opens up broad opportuniti
 experience, becoming involved in your community, and networking with mentors. Employers find that extracurriculars build necessary skills and experience before you apply.
 
 ### Attending On-Campus Events
----
+___
 All UW campuses provide on-campus events like mentorship nights, skill workshops, employer tours, and career presentations. 
 Attending these events boost necessities like your resume, give you an idea of what a job in that area would look like, 
 and gives you the skills you need to prepare for your future career. 
@@ -35,7 +35,7 @@ You can find more information on the campus event schedule through the [event pa
 or posters around campus.
 
 ### Finding Clubs
----
+___
 Joining a club or two relating to your area of interest (ex. engineering --> robotics) gives you
 experience in your field and becomes a stand out quality to recruiters since you bring in prior knowledge of your area.
 
@@ -47,7 +47,7 @@ Elective classes are required for your major. However, relating those electives 
 choosing blindly prepares you for what kinds of projects you might take on in the future.
 
 ### Joining University-Sanctioned Programs
----
+___
 Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits.These programs provide on-site experiences that you use later on. University programs show that you're willing to engage and learn from the community around you.
 
 Attend meetings and talk with professors about what kinds of programs or research they sponsor. 
@@ -58,14 +58,14 @@ Applying and working as an intern is one of the best ways to ensure you land you
 Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. Employers prefer applicants who have prior experience so the training/teaching process is more streamlined.
 
 ### Tailoring Applications
----
+___
 Editing your cover letter and resume to better fit the job expectations on the employer's site gives you a better chance of being reviewed.
 Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing relevant job experience, adjusting your resume summary, and using similar language to the posting.
 
 Read over the job description and stylize your documents to match the expectations of your potential employer.
 
 ### Using Career Services
----
+___
 UW campuses offer resources like a [career services office](https://www.uwb.edu/career-services/) 
 to help you build resumes, gain interview skills, and get personalized guidance on what kinds of programs would
 best fit you. They often hold events and coaching resources for students like yourself to frequently attend.
@@ -77,7 +77,7 @@ part is being able to relay that to an employer. Figure 1 visualizes what that c
 <img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" /><img width="1280" height="720" alt="electronics-1-lab-featured" src="https://github.com/user-attachments/assets/8bb894bc-d99b-4f46-930a-93ac911db4c0" />
 
 ### Using Networking Websites
----
+___
 Websites like [LinkedIn](https://www.linkedin.com) and [Husky Handshake](https://careers.uw.edu/resources/handshake/) are
 great ways to connect with others in your fields, experienced graduates similar to you, and companies you'd like to apply for. Employers get to see who you are and what you do through an easy to use UI.
 
