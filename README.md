@@ -19,11 +19,11 @@
 
 Applying to your ideal job after graduating can be stressful as it's normal to feel you are underqualified.
 It takes more than just the base major course track to catch the attention of hiring managers.
-This document is a guide to boosting your exprience and resume to better appeal to labs focusing on research and development.
+This document is a guide to boosting your experience and resume to better appeal to labs focusing on research and development.
 
 ___
 ## Participating in Extracurriculars
-Participating in extracurricular activities on campus opens up broad oppurtunities like getting hands-on 
+Participating in extracurricular activities on campus opens up broad opportunities like getting hands-on 
 experience, becoming involved in your community, and networking with mentors. Employers find that extracurriculars build necessary skills and experience before you apply.
 
 ### Attending On-Campus Events
@@ -41,7 +41,7 @@ There are countless clubs you can find on the club registry page that are always
 Joining a club or two relating to your area of interest (ex. engineering --> robotics) gives you
 experience in your field and becomes a stand out quality to recruiters since you bring in prior knowledge of your area.
 
-Check the [club registry](https://gather.uwb.edu/club_signup) and scout out which catagories interest you. Be sure not to overload your schedule.
+Check the [club registry](https://gather.uwb.edu/club_signup) and scout out which categories interest you. Be sure not to overload your schedule.
 
 ___
 ## Choosing Electives
@@ -50,18 +50,18 @@ choosing blindly can prepare you for what kinds of projects you might take on in
 
 ### Joining University-Sanctioned Programs
 ---
-Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits. For example, if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. These programs generally provide on-site expereiences that you may use later on, alongside future mentors you can use as a reference. University programs show that you're willing to engage and learn from the community around you.
+Programs like [study abroad](https://www.uwb.edu/connected-learning/global/abroad), research labs, and company-sponsored electives can count towards your elective credits. For example, if you are wanting to work in medical technology development, start messaging research groups or professors about medical device labs. These programs generally provide on-site experiences that you may use later on, alongside future mentors you can use as a reference. University programs show that you're willing to engage and learn from the community around you.
 
-Attend meetings and talk with professors about what kinds of programs or research they sponser. 
+Attend meetings and talk with professors about what kinds of programs or research they sponsor. 
 
 ___
 ## Getting Internships
-Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had background in your area. 
+Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had a background in your area. 
 Networking is one of the best benefits of interning, as you get to meet with many different people during your time at the company. Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. Employers prefer applicants who have prior experience so the training/teaching process is more streamlined.
 
 ### Tailoring Applications
 ---
-Editing your cover letter and resume to better fit the job expectations on the employers site gives you a better chance of being reviewed.
+Editing your cover letter and resume to better fit the job expectations on the employer's site gives you a better chance of being reviewed.
 Rather than mass sending your base documents, take some time to tailor them to the career you're applying for. This involves emphasizing relevant job experience, adjusting your resume summary, and using similar language to the posting.
 
 Read over the job description and stylize your documents to match the expectations of your potential employer.
@@ -96,12 +96,12 @@ through these platforms.
 ### Attaining Leadership Roles
 ---
 Participating in clubs and activities are already good ways to boost your resumes. However, you can upgrade these roles by
-becoming a leader in your area. Leadership skills and taking the initiative are always great qualities that hiring manangers are on the lookout for.
+becoming a leader in your area. Leadership skills and taking the initiative are always great qualities that hiring managers are on the lookout for.
 
 Try to audition or run for positions in what you are involved in. Even if you don't succeed, you learn what to improve for next time.
 ___
 ## References
 
-[^1]: Husson University, “Benefits of Internships for College Students”, Husson.edu, 2024 Husson Online Blog, 11 June 2024. [Online] Available: https://www.husson.edu/online/blog/2024/06/benefits-of-internships. [Accessed 27 October 2026].
+[^1]: Husson University, *“Benefits of Internships for College Students”*, Husson.edu, 2024 Husson Online Blog, 11 June 2024. [Online] Available: https://www.husson.edu/online/blog/2024/06/benefits-of-internships. [Accessed 27 October 2026].
 ‌
 [Word Count: ]
