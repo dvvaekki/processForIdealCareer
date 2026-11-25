@@ -1,5 +1,5 @@
 <img width="1280" height="720" alt="electronics-1-lab-featured" src="https://github.com/user-attachments/assets/c16d9eec-1456-48b4-b8c0-25c46d36cf5f" />
-
+###### ["Purdue Polytechnics Electronics Lab"](https://polytechnic.purdue.edu/facilities/electronics-lab-1-advanced)
 # Preparing for Your Ideal Career in Research and Development
 
 ## Table of Contents:
