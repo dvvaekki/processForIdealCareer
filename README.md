@@ -106,6 +106,8 @@ ___
 
 [^1]: Husson University, *“Benefits of Internships for College Students”*, Husson.edu, 2024 Husson Online Blog, 11 June 2024. [Online] Available: https://www.husson.edu/online/blog/2024/06/benefits-of-internships. [Accessed 27 October 2026].
 ‌
-## [Word Count: 692]
+___
+
+##### [Word Count: 692]
 
 
