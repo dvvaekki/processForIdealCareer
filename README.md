@@ -75,19 +75,21 @@ Work with career services to build your resume. You can have all the experience,
 part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
 
 ###### Figure 1: Visualization of Two Different Resumes
-<img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" />
+<img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" /><img width="1280" height="720" alt="electronics-1-lab-featured" src="https://github.com/user-attachments/assets/8bb894bc-d99b-4f46-930a-93ac911db4c0" />
 
-### Attaining Leadership Roles
+### Using Networking Websites
 ---
-Upgrade your involvement in the clubs and programs you’re already in by being a leader in your area. Leadership skills and taking the initiative are always great qualities that hiring managers are on the lookout for.
+Websites like [LinkedIn](https://www.linkedin.com) and [Husky Handshake](https://careers.uw.edu/resources/handshake/) are
+great ways to connect with others in your fields, experienced graduates similar to you, and companies you'd like to apply for. Employers get to see who you are and what you do through an easy to use UI.
 
-Try to audition or run for positions in what you are involved in. Even if you don't succeed, you learn what to improve for next time.
+Create and spend some time on these profiles. Keep track of companies, disciplines, and other peers by connecting with them
+through these platforms.
+
 ___
 ## References
 
 [^1]: Husson University, *“Benefits of Internships for College Students”*, Husson.edu, 2024 Husson Online Blog, 11 June 2024. [Online] Available: https://www.husson.edu/online/blog/2024/06/benefits-of-internships. [Accessed 27 October 2026].
 ‌
-[Word Count: ]
-
+[Word Count: 692]
 
 
