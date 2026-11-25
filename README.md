@@ -14,7 +14,6 @@
   * [Tailoring Applications](#tailoring-applications)
   * [Career Services](#using-career-services)
   * [Networking Websites](#using-networking-websites)
-  * [Attaining Leadership Roles](#attaining-leadership-roles)
 * [References](#references)
 
 Applying to your ideal job after graduating can be stressful as it's normal to feel you are underqualified.
