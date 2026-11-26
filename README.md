@@ -64,7 +64,7 @@ Attend meetings and talk with professors about what kinds of programs or researc
 ___
 ## Getting Internships
 Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had a background in your area. 
-Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. Employers prefer applicants who have prior experience so the training/teaching process is more streamlined.
+Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. On field experience is crucial to succeed as an electrical engineer [^2].
 
 
 
@@ -84,13 +84,7 @@ to help you build resumes, gain interview skills, and get personalized guidance 
 best fit you. They often hold events and coaching resources for students like yourself to frequently attend.
 
 Work with career services to build your resume. You can have all the experience, but the most important
-part is being able to relay that to an employer. Figure 1 visualizes what that could look like.
-
-
-
-###### Figure 1: Visualization of Two Different Resumes
-<img width="1024" height="715" alt="processvis" src="https://github.com/user-attachments/assets/5b2f84a6-6dbc-420a-adac-356c37bbaabf" />
-
+part is being able to relay that to an employer in a concise way. They already have to read hundreds of resumes, which is why you want yours to stand out and easily readable.
 
 ### Using Networking Websites
 ___
@@ -106,6 +100,7 @@ ___
 ## References
 
 [^1]: Husson University, *“Benefits of Internships for College Students”*, Husson.edu, 2024 Husson Online Blog, 11 June 2024. [Online] Available: https://www.husson.edu/online/blog/2024/06/benefits-of-internships. [Accessed 27 October 2026].
+[^2]: Surugiu, Sebastian. Personal interview. 7 November 2026.
 ‌
 
 
