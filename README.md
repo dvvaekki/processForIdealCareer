@@ -68,7 +68,7 @@ Students who intern are far more likely to be offered full-time positions when a
 Figure 1 visualizes how likely students who held internships are to get job offers before graduation.
 
 ###### Figure 1: Job Offer Rates for Internship Students [^3]
-<img width="980" height="980" alt="Electrical Engineering Major Requirements" src="https://github.com/user-attachments/assets/9740725c-5650-43a5-a0ed-2a71930ae042" />
+<img width="780" height="780" alt="Electrical Engineering Major Requirements" src="https://github.com/user-attachments/assets/9740725c-5650-43a5-a0ed-2a71930ae042" />
 
 
 ### Tailoring Applications
