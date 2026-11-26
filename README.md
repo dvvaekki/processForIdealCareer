@@ -24,7 +24,7 @@ This document is a guide to boosting your experience and resume to better appeal
 ___
 ## Participating in Extracurriculars
 Participating in extracurricular activities on campus opens up broad opportunities like getting hands-on 
-experience, becoming involved in your community, and networking with mentors. Employers find that extracurriculars build necessary skills and experience before you apply.
+experience, becoming involved in your community, and networking with mentors. Employers find that extracurriculars build necessary skills and experience before you apply. On field experience is crucial to succeed as an electrical engineer [^2].
 
 
 ### Attending On-Campus Events
@@ -64,8 +64,11 @@ Attend meetings and talk with professors about what kinds of programs or researc
 ___
 ## Getting Internships
 Applying and working as an intern is one of the best ways to ensure you land your ideal job. Internships prove to recruiters that you've already had a background in your area. 
-Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. On field experience is crucial to succeed as an electrical engineer [^2].
+Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. 
+Figure 1 visualizes how likely students who held internships are to get job offers before graduation.
 
+###### Figure 1: Job Offer Rates for Internship Students [^3}
+<img width="1024" height="1024" alt="Electrical Engineering Major Requirements" src="https://github.com/user-attachments/assets/9740725c-5650-43a5-a0ed-2a71930ae042" />
 
 
 ### Tailoring Applications
@@ -101,6 +104,7 @@ ___
 
 [^1]: Husson University, *“Benefits of Internships for College Students”*, Husson.edu, 2024 Husson Online Blog, 11 June 2024. [Online] Available: https://www.husson.edu/online/blog/2024/06/benefits-of-internships. [Accessed 27 October 2026].
 [^2]: Surugiu, Sebastian. Personal interview. 7 November 2026.
+[^3]: National Association of Colleges and Employers, *"2025 Student Survey Report"*, naceweb.org, September 2025. [Online] Available: https://www.ucop.edu/institutional-research-academic-planning/_files/extracurricular-activities-impact-on-emploment-outcomes.pdf. [Accessed 25 November 2026].
 ‌
 
 
