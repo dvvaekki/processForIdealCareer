@@ -67,8 +67,8 @@ Applying and working as an intern is one of the best ways to ensure you land you
 Students who intern are far more likely to be offered full-time positions when applying to long-term careers [^1]. 
 Figure 1 visualizes how likely students who held internships are to get job offers before graduation.
 
-###### Figure 1: Job Offer Rates for Internship Students [^3}
-<img width="1024" height="1024" alt="Electrical Engineering Major Requirements" src="https://github.com/user-attachments/assets/9740725c-5650-43a5-a0ed-2a71930ae042" />
+###### Figure 1: Job Offer Rates for Internship Students [^3]
+<img width="980" height="980" alt="Electrical Engineering Major Requirements" src="https://github.com/user-attachments/assets/9740725c-5650-43a5-a0ed-2a71930ae042" />
 
 
 ### Tailoring Applications
